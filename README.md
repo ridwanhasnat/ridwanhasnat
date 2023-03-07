@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ridwanhasnat. Master's Student in Automotive Software Engineering in TU Chemnitz, Germany. 
-- 👀 I’m interested in Data Science, ADAS, Autonomous Vehicles
-- 🌱 I’m currently learning Data Analysis and Machine Learning using various models/algorithms to analyze and predict Data. 
-- I am actively looking for Mandatory Internship. 
+- 👋 Hi, I’m @ridwanhasnat. Master's Student in Automotive Software Engineering in TU Chemnitz, Germany.
+- I completed my undergraduate in Computer Science from American International University Bangladesh.  
+- 👀 I’m interested in ADAS, Autonomous Vehicles, Data Science & ML.
+- 🌱 I am actively looking for Mandatory Internship. 
 - 📫 How to reach me: ridwan_hasnat@hotmail.com 
 
 <!---
